@@ -39,11 +39,13 @@ streamlit run app.py
 
 4. Record a 10-second audio clip and see the generated image
 
+
 5. To install PyAudio i have provided default dependency for PyAudio 
 
-...
-pip install --filename--
-...
+```
+pip install <filename>
+```
+
 
 ## Contributing
 
