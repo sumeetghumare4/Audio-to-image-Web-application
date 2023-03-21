@@ -1,5 +1,9 @@
 # Audio to Image Web Application
 
+## Problem Statements
+
+The problem is to develop a machine learning model that can generate room interior designs based on audio signals, and to deploy this model using Streamlit to create a user-friendly web interface. The main challenge is to train the model to accurately recognize patterns in audio signals and generate corresponding designs, while ensuring stability and reliability.
+
 This repository contains a web application that allows users to record a 10-second audio clip and outputs a detailed image based on the 
 speech in the audio. The web application is written in Python and uses the Streamlit library.
 
